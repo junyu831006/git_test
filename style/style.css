@@ -1,0 +1,19 @@
+h1{
+    font-weight: 56;
+}
+.basic{
+    list-style: none;
+}
+img{
+    width: 300px;
+}
+table, th, td {
+    border: 1px solid black;
+ }
+.message{
+    width: 200px;
+    height: 150px;
+}
+.say{
+    display:block;
+}
